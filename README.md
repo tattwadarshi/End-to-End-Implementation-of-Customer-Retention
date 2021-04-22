@@ -3,7 +3,9 @@
 ## 🔴 Detailed Project on EDA, Model Building & Model Deployment: 
 
 
-<img src="CC.PNG" alt=" " style="width: 600px;">
+<img src="..\images\CC.PNG" alt=" " style="width: 600px;">
+<img src="svm_default.png" alt="A Support Vector Machine" style="width: 600px;">
+
 
 ## 🔴 What is Customer Churning ?
 
