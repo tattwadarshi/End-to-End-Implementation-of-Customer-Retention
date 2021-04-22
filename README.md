@@ -3,7 +3,7 @@
 ## 🔴 Detailed Project on EDA, Model Building & Model Deployment: 
 
 
-<img src="CC.png" alt="" style="width: 600px;">
+<img src="CC.png" alt=" " style="width: 600px;">
 
 ## 🔴 What is Customer Churning ?
 
