@@ -7,23 +7,23 @@
 
 ## 🔴 What is Customer Churning ?
 
-![Customer Retention](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco1.JPG)
+<img src="Telco1.JPG" alt=" " style="width: 600px;">
 
 ## 🔴 What are the different Churn Scenarios ?
 
-![Churn Scenarios](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco2.JPG)
+<img src="Telco2.JPG" alt=" " style="width: 600px;">
 
 ## 🔴 Decision Cycle of a Subscriber ?
 
-![Decision Cycle](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco3.JPG)
+<img src="Telco3.JPG" alt=" " style="width: 600px;">
 
 ## 🔴 What are the different Churn Segments ?
 
-![Churn Segments](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco4.JPG)
+<img src="Telco4.JPG" alt=" " style="width: 600px;">
 
 ## 🔴 Solution Overview
 
-![Solution](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco5.JPG)
+<img src="Telco5.JPG" alt=" " style="width: 600px;">
 
 
 In this repository, we have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.
@@ -75,4 +75,4 @@ Below message in Python shell is seen, which indicates that our App is now hoste
 
 HERE'S HOW OUR FRONTEND LOOKS LIKE:
 
-![Customer Retention](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco6.JPG)
+<img src="Telco6.JPG" alt=" " style="width: 600px;">
