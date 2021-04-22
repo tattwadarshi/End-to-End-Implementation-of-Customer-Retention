@@ -1,9 +1,9 @@
 # Customer Retention
 
-## 🔴 Detailed Session on EDA, Model Building & Model Deployment: 
+## 🔴 Detailed Project on EDA, Model Building & Model Deployment: 
 
 
-[![Alt text](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/CC.JPG)](https://www.youtube.com/watch?v=GVECbcKUio4)
+<img src="CC.png" alt="" style="width: 600px;">
 
 ## 🔴 What is Customer Churning ?
 
